@@ -1,0 +1,1 @@
+bin/\nobj/\n*.user\n*.suo\n*.exe\n*.dll\n*.msi\n*.vshost.*\n.vs/

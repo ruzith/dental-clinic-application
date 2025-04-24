@@ -1,0 +1,121 @@
+D:\dental clinic\dental clinic\bin\Debug\dental clinic.exe.config
+D:\dental clinic\dental clinic\bin\Debug\dental clinic.exe
+D:\dental clinic\dental clinic\bin\Debug\dental clinic.pdb
+D:\dental clinic\dental clinic\obj\Debug\dental clinic.csprojAssemblyReference.cache
+D:\dental clinic\dental clinic\obj\Debug\dental_clinic.Form1.resources
+D:\dental clinic\dental clinic\obj\Debug\dental_clinic.Properties.Resources.resources
+D:\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.GenerateResource.cache
+D:\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.CoreCompileInputs.cache
+D:\dental clinic\dental clinic\obj\Debug\dental clinic.exe
+D:\dental clinic\dental clinic\obj\Debug\dental clinic.pdb
+D:\dental clinic\dental clinic\obj\Debug\dental_clinic.login.resources
+D:\dental clinic\dental clinic\obj\Debug\dental_clinic.appoinment.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental clinic.csprojAssemblyReference.cache
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.appoinment.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.dashbord.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.Form1.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.login.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.patient.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.Prescription.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.Properties.Resources.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.Treatment.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental_clinic.Users.resources
+D:\C#\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.GenerateResource.cache
+D:\C#\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.CoreCompileInputs.cache
+D:\C#\dental clinic\dental clinic\obj\Debug\dental clinic.exe
+D:\C#\dental clinic\dental clinic\obj\Debug\dental clinic.pdb
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.appoinment.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.dashbord.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.Form1.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.login.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.patient.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.Prescription.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.Properties.Resources.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.Treatment.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.Users.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.exe.licenses
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.exe
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.pdb
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\dental clinic.exe.config
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\dental clinic.exe
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\dental clinic.pdb
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental clinic.csproj.CopyComplete
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.doctor.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.pharmacy.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\obj\Debug\dental_clinic.adminlogin.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\itextsharp.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\itextsharp.xml
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\DentalDB.mdf
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\dental clinic\bin\Debug\DentalDB_log.ldf
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\DentalDB.mdf
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\DentalDB_log.ldf
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe.config
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.pdb
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\itextsharp.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\itextsharp.xml
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.adminlogin.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.appoinment.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.dashbord.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.doctor.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Form1.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.login.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.patient.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.pharmacy.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Prescription.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Properties.Resources.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.treatment.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Users.resources
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe.licenses
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.CopyComplete
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.pdb
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe.manifest
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.application
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe.manifest
+C:\Users\HP\Downloads\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.application
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\DentalDB.mdf
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\DentalDB_log.ldf
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe.config
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe.manifest
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.application
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.exe
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\dental clinic.pdb
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\BouncyCastle.Crypto.dll
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\Guna.UI2.dll
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\itextsharp.dll
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\OpenHtmlToPdf.dll
+D:\RUUUUUU\dental clinic Assignment\dental clinic\bin\Debug\itextsharp.xml
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csprojAssemblyReference.cache
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.adminlogin.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.appoinment.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.dashbord.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.doctor.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Form1.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.login.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.patient.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.pharmacy.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Prescription.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Properties.Resources.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.treatment.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental_clinic.Users.resources
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.GenerateResource.cache
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe.licenses
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.CoreCompileInputs.cache
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe.manifest
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.application
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.csproj.CopyComplete
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.exe
+D:\RUUUUUU\dental clinic Assignment\dental clinic\obj\Debug\dental clinic.pdb
